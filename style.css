@@ -1,4 +1,11 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+}
 
-.nav__link{
-    display: inline-block;
+.nav__link, .nav__sair {
+  display: inline-block;
+}
+
+.nav__sair{
+  text-align: right;
 }
